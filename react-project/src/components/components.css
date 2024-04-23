@@ -1,0 +1,11 @@
+#counter{
+    height: 500px;
+    width: 300px;
+    background-color: rgb(124, 247, 247);
+    margin-top: 20px;
+    margin-left: 500px;
+}
+#rightaside{
+    margin-left: 25%;
+    margin-top: -550px;
+}
